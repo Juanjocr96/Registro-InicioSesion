@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #8DC2F8;
+  margin-left: 1%;
+}
+form{
+  margin-top: 1%;
+}
+label, input{
+  display: block;
+}
+
+input[type=submit]{
+  margin-top: 20px;
+  height: 25px;
+}
+
+p{
+  padding-top: 10px;
+  padding-left: 2px;
+  padding-bottom: 13px;
+}
+
+a{
+  text-decoration: none;
+  background-color: white;
+  border: 1px solid silver;
+  color: black;
+  padding: 5px;
+}
